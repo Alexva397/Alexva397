@@ -4,7 +4,7 @@ Welcome! I am a full-stack web developer looking to create and collaberate with 
 I enjoy working in JavaScript, implementing libraries ranging such as Jquery, Bootstrap, and many more!
 
 #### Tech and Tools:
-  ![JavaScript Logo](./images/javascriptlogo.png)&nbsp;![HTML Logo](./images/htmllogo.png)&nbsp;![CSS Logo](./images/csslogo.png)&nbsp;![JQuery Logo](./images/jquerylogo.png)&nbsp;![Git Logo](./images/gitlogo.png)&nbsp;![Bootstrap Logo](./images/bootstraplogo.png)&nbsp;![Chrome Dev Tools Logo](./images/chromedevlogo.png)
+  ![JavaScript Logo](./images/javascriptlogo.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![HTML Logo](./images/htmllogo.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![CSS Logo](./images/csslogo.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![JQuery Logo](./images/jquerylogo.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Git Logo](./images/gitlogo.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Bootstrap Logo](./images/bootstraplogo.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Chrome Dev Tools Logo](./images/chromedevlogo.png)
   
 
 ### [Check Out Some of my Work!](https://alexva397.github.io/alexander-vadeboncoeur-portfolio/)
