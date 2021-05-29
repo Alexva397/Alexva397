@@ -3,7 +3,7 @@ Welcome! I am a full-stack web developer looking to create and collaberate with 
 
 
 #### Tech and Tools:
-  ![HTML logo](./images/html.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![CSS Logo](./images/css.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![JavaScript Logo](./images/javascript.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![JQuery Logo](./images/jquery.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Git Logo](./images/git.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Bootstrap](./images/bootstrap.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Node.js](./images/nodejs.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![express js](./images/expressjs.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![MySQL](./images/mysql.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Sequelize](./images/sequelize.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Handlebars](./images/handlebars.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![MongoDB](./images/mongodb.png)
+  ![HTML logo](./images/html.png =128x128)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![CSS Logo](./images/css.png =128x128)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![JavaScript Logo](./images/javascript.png =128x128)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![JQuery Logo](./images/jquery.png =128x128)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Git Logo](./images/git.png =128x128)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Bootstrap](./images/bootstrap.png =128x128)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Node.js](./images/nodejs.png =128x128)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![express js](./images/expressjs.png =128x128)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![MySQL](./images/mysql.png =128x128)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Sequelize](./images/sequelize.png =128x128)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Handlebars](./images/handlebars.png =128x128)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![MongoDB](./images/mongodb.png =128x128)
   
   
 
