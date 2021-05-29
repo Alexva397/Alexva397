@@ -1,10 +1,9 @@
 # Hello, my name is Alexander Vadeboncoeur 
 Welcome! I am a full-stack web developer looking to create and collaberate with other developers. I am currently enrolled in a web development bootcamp, and I intend to enter the field of Computer Science and continue my education as a programmer!
 
-I enjoy working in JavaScript, implementing libraries ranging such as Jquery, Bootstrap, and many more!
 
 #### Tech and Tools:
-  ![JavaScript Logo](./images/javascriptlogo.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![HTML Logo](./images/htmllogo.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![CSS Logo](./images/csslogo.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![JQuery Logo](./images/jquerylogo.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Git Logo](./images/gitlogo.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Bootstrap Logo](./images/bootstraplogo.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Chrome Dev Tools Logo](./images/chromedevlogo.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Moment Logo](./images/momentlogo.png)
+  ![HTML logo](./images/html.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![CSS Logo](./images/css.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![JavaScript Logo](./images/javascript.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![JQuery Logo](./images/jquery.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Git Logo](./images/git.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Bootstrap](./images/bootstrap.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Node.js](./images/nodejs.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![express js](./images/expressjs.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![MySQL](./images/mysql.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Sequelize](./images/sequelize.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Handlebars](./images/handlebars.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![MongoDB](./images/mongodb.png)
   
   
 
