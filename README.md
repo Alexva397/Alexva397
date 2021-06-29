@@ -1,5 +1,5 @@
 # Hello, my name is Alexander Vadeboncoeur 
-Welcome! I am a full-stack web developer looking to create and collaberate with other developers. I am currently enrolled in a web development bootcamp, and I intend to enter the field of Computer Science and continue my education as a programmer!
+Welcome! I am a full-stack web developer looking to create and collaberate with other developers. Passionate and driven, I am always looking for new challanges and opportunities!
 
 
 #### Tech and Tools:
