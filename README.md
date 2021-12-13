@@ -18,7 +18,6 @@ Welcome! I am a full-stack web developer looking to create and collaberate with 
   - I am a Texas Native.
   - I am a cyclist. :bike:
   - I am a dog lover. :dog:
-  - I enjoy building web apps that operate fluidly and are visually pleasing for the user.
   - I am an extremely tecnichal and detial oriented individual. I seek out the __HOW__ it works and __WHY__ it is used, behind everything from lines of code and it's functionality to mechanical machines.
 
 ### I am always looking to build upon my skillset and expand my knowledge, find new projects to work on and meet other developers to create with. Please reach out for more info!
