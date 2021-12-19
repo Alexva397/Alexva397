@@ -1,4 +1,4 @@
-# Hello, my name is Alexander Vadeboncoeur 
+# Hello, Alex here
 Welcome! I am a full-stack web developer looking to create and collaberate with other developers. Passionate and driven, I am always looking for new challanges and opportunities!
 
 
